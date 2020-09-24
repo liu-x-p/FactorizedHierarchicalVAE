@@ -13,5 +13,6 @@ Code used to in part implement Interspeech 2019 paper:
 This recipe is based on Wei-Ning Hsu's FHVAE implementation [1].
 
 
-[1] "Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data" Resources.
+[1] W. Hsu, Y. Zhang, and J. R. Glass, “Unsupervised learning of disentangled and interpretable representations from sequential data,”
+in Proc. NIPS, 2017, pp. 1876–1887.
 

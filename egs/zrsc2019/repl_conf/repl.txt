@@ -1,0 +1,4 @@
+A08.wav_1 A08.wav_1
+A08.wav_1 A08.wav_10
+A08.wav_10 A08.wav_1
+A08.wav_10 A08.wav_10
